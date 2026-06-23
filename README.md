@@ -6,6 +6,6 @@ pip install -r requirements.txt
 
 python train_model.py
 
-streamlit run streamlit_app.py
+python -m streamlit run streamlit_app.py
 
 Deploy: https://loan-predictor-bhtcxjwzkswaduypbzbkmt.streamlit.app/
